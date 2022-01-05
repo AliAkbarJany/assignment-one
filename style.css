@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    padding:0;
+}
+.explore-btn{
+    color:white;
+    text-decoration: none;
+    background-image: linear-gradient(red,rgb(236, 87, 112));
+    padding:10px 20px;
+}
+.orange{
+    color:orange;
+}
+.one{
+    display:flex;
+    width:70%;
+    justify-content: space-between;
+}
+.person img{
+    width:250px;
+    height:250px;
+}
+.two{
+    margin-top: 100px;
+}
+.my{
+    text-align: center;
+}
+.mission{
+    width:250px;
+    background-color:papayawhip ;
+    padding:0 25px;
+    border-radius: 20px;
+}
+.vision{
+    width:250px;
+    background-color:palegreen ;
+    padding:0 25px;
+    border-radius: 20px;
+}
+.mission-img{
+    width:55%;
+}
+.three{
+    display: flex;
+    margin-top: 50px;
+    justify-content:space-evenly;
+}
+.goals{
+    width:250px;
+    background-color:powderblue ;
+    padding:0 25px;
+    border-radius: 20px;
+}
