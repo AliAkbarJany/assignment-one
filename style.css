@@ -77,11 +77,7 @@ body{
     width:80%;
     padding-top: 150px;
 }
-.six{
-    text-align: center;
-    width:400px;
-    border:rosybrown solid 2px;
-}
+
 .align{
     text-align: justify;
     
@@ -96,7 +92,5 @@ body{
     padding-left: 10px;
     
 }
-.c{
-    width:100%;
-}
+
 
