@@ -69,11 +69,18 @@ body{
     display:flex;
     width:80%;
     padding-top: 150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
 }
 .five{
     display:flex;
     width:80%;
     padding-top: 150px;
+}
+.six{
+    text-align: center;
+    width:400px;
+    border:rosybrown solid 2px;
 }
 .align{
     text-align: justify;
@@ -85,8 +92,11 @@ body{
 }
 
 .B{
-    border-left:4px solid;
+    border-left:4px solid rosybrown;
     padding-left: 10px;
     
+}
+.c{
+    width:100%;
 }
 
