@@ -84,3 +84,9 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 
+.B{
+    border-left:4px solid;
+    padding-left: 10px;
+    
+}
+
