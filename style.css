@@ -2,23 +2,28 @@ body{
     margin:0;
     padding:0;
 }
-.explore-btn{
+.button{
     color:white;
     text-decoration: none;
     background-image: linear-gradient(red,rgb(236, 87, 112));
     padding:10px 20px;
+    border-radius:10px;
 }
 .orange{
     color:orange;
 }
 .one{
     display:flex;
-    width:70%;
-    justify-content: space-between;
+      
+}
+.A{
+    width:100%;
+    padding-left:15%;
+    
 }
 .person img{
-    width:250px;
-    height:250px;
+    width:300px;
+    height:300px;
 }
 .two{
     margin-top: 100px;
@@ -52,3 +57,30 @@ body{
     padding:0 25px;
     border-radius: 20px;
 }
+
+.footer{
+    color:white;
+    text-align:center;
+    background-color:black;
+    padding: 20px;
+    margin-top:150px;
+}
+.four{
+    display:flex;
+    width:80%;
+    padding-top: 150px;
+}
+.five{
+    display:flex;
+    width:80%;
+    padding-top: 150px;
+}
+.align{
+    text-align: justify;
+    
+}
+.font{
+    font-family: 'Comforter', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+
